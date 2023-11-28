@@ -1,15 +1,10 @@
 ---
 layout: default
-title: Student Blog
+title: About Me
 ---
 
+<img style="border:10px outset #9CD81E;" src="{{site.baseurl}}/images/AboutMe.png" height="500px" width="800px" alt="freeform"/>
 
-## Build you Home Page here 
-This is about your journey. Start now!!! Ok
-
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
-
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
+## Background
+-------------------------------------
+My name is Anvay Vahia. I am 14 years old and have been living in San Diego my whole life. My parents are both from India, so this culture is a pretty big part of my life. Outside of school, I really enjoy tennis and the piano. I have been playing the piano since I was 8 or 9 years old. On the other hand, I started tennis only around 2 years ago, but I am really enjoying it. I also participate in this competition called CyberPatriot. This competition is what inspired me to join CSSE. Some of my hobbies include video games, biking, and going go-karting. I also like spending time with friends when I have the time to do so. 
