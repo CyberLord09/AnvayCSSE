@@ -3,7 +3,7 @@ layout: default
 title: About Me
 ---
 
-<img style="border:10px outset #9CD81E;" src="{{site.baseurl}}/images/AboutMe.png" height="500px" width="800px" alt="freeform"/>
+<img style="border:10px outset #9CD81E;" src="{{site.baseurl}}/images/AboutMe.png" height="420px" width="550px" alt="freeform"/>
 
 ## Background
 -------------------------------------
