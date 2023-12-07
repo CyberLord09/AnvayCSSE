@@ -32,8 +32,16 @@ a {
   color: green;
 }
 
+h1.post-title.p-name.typewriter {
+  color: #fff;
+}
+
+h1 {
+  color: #fff !important;
+}
+
 h1, h2, h3, h4 {
-  color: #fff
+  color: #fff;
 }
   /* define class for redifined button */
   .button {
@@ -242,5 +250,5 @@ h1, h2, h3, h4 {
   display: none;
 }
 .no-js h1 {
-  color: #222222;
+  color: #fff;
 }
