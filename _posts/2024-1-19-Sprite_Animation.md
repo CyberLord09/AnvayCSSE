@@ -114,7 +114,7 @@ courses: {'compsci': {'week': 7}}
                 dog.update();
                 
                 requestAnimationFrame(animate);
-            }, 50);
+            }, 90);
         }
 
         // run 1st animate
