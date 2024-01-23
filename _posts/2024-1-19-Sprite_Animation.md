@@ -67,7 +67,7 @@ courses: {'compsci': {'week': 7}}
                 if (this.frameX < this.maxFrame) {
                     this.frameX++;
                 } else {
-                    this.frameX = 0;
+                    this.frameX = this.minFrame;
                 }
             }
         }
@@ -109,7 +109,12 @@ courses: {'compsci': {'week': 7}}
 
             // Uses `requestAnimationFrame` to synchronize the animation loop with the display's refresh rate,
             // ensuring smooth visuals.
-            requestAnimationFrame(animate);
+            setTimeout(function() {
+
+                dog.update();
+                
+                requestAnimationFrame(animate);
+            }, 50);
         }
 
         // run 1st animate
